@@ -30,10 +30,10 @@ function divide(num1, num2)
 
 function increment(num)
 {
-  return num++;
+  return num+=1;
 }
 
 function decrement(num)
 {
-  return num--;
+  return num-=1;
 }
