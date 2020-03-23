@@ -32,3 +32,8 @@ function increment(num)
 {
   return num++;
 }
+
+function decrement(num)
+{
+  return num--;
+}
